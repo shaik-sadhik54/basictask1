@@ -11,11 +11,11 @@
   int buz=D1;
   //Threshold values for air quality
   const int gas_tsd=200;
- const char* ssid = "Red Devil";  
- const char* password = "pqrs123456";  
+ const char* ssid = "SS ID";  
+ const char* password = "password";  
  WiFiClient client;  
- unsigned long myChannelNumber = 318444;  
- const char * myWriteAPIKey = "T4WKJK0X7FLAV3BL";    
+ unsigned long myChannelNumber = CHANNEL NUMBER;  
+ const char * myWriteAPIKey = "ApI KEY";    
  void setup()  
  {
   // initilize LCD

@@ -3,9 +3,14 @@
 Project Summary: Combatting urban air pollution, this IoT-based system monitors air quality in real-time using sensors like MQ135 and MQ6. The LCD displays PPM values, and the system triggers alarms when air quality deteriorates, saving logs for future analysis and intervention.
 Components:
 1.Ardinuo uno R3
-2.wifi module
+
+2.wifi module (SP8266WiFi)
+
 3.gas sensor MQ15
-4.internet connectivity
+
+4.LCD 16X2
+
+5.buzzer
 
 
 Data visualization:
